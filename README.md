@@ -139,7 +139,25 @@ Vehicle Detection
 - Roboflow
 
 ---
+## Technical Documentation
 
+### Pipeline Overview
+
+1. Object Detection using YOLO11n.
+2. Instance Segmentation using YOLO11n-seg.
+3. Object Tracking using BoT-SORT.
+4. Object Counting using ObjectCounter.
+5. Custom model training using a Roboflow dataset.
+6. Model evaluation using Precision, Recall, mAP50, and mAP50-95.
+
+### Training Details
+
+- Dataset source: Roboflow Universe
+- Training epochs: 10
+- Image size: 640
+- Batch size: 16
+
+  ---
 ## Repository Structure
 
 ```
