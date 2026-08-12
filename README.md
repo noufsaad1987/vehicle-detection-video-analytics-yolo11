@@ -145,8 +145,7 @@ Vehicle Detection
 ```
 .
 ├── README.md
-├── best.pt
-└── project_notebook.ipynb
+└── Vehicle_Detection_YOLO11.ipynb
 ```
 
 ---
