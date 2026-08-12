@@ -68,6 +68,13 @@ Implemented features:
 - evaluation results
 - tracking videos
 
+## SDAIA Academy Attribution
+
+This project was completed as part of the Computer Vision for Developers with Ultralytics training program delivered by SDAIA Academy.
+
+SDAIA Academy:
+https://github.com/SDAIAAcademy
+
 ## Author
 
 Nouf Alrubayyi
